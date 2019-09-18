@@ -1,0 +1,1 @@
+urlToString.php用于将url携带的经过base64_encode的字符串base64_decode并形成参数的形式;
